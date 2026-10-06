@@ -1,0 +1,4 @@
+Order #42 ships on 2026-10-05 with 3 items.
+Contact ada@example.com or grace.hopper@navy.mil for help.
+She said "hello" and he replied 'world'.
+Docs: https://rjedwards.dev/projects and HTTP://example.com/path
